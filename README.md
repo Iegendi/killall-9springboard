@@ -1,1 +1,1 @@
-# killall-9springboard
+# killall -9 springboard
